@@ -13,7 +13,7 @@ ms.author: ronwa
 # Grant-CsTeamsRecordingRollOutPolicy
 
 ## SYNOPSIS
-The CsTeamsRecordingRollOutPolicy controls roll out of the change that governs the storage for meeting recordings. 
+The CsTeamsRecordingRollOutPolicy controls roll out of the change that governs the storage for meeting recordings.
 
 ## SYNTAX
 
@@ -147,6 +147,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ## OUTPUTS
 
 ### System.Object
+
 ## NOTES
 
 ## RELATED LINKS
